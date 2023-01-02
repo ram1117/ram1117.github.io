@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5.2890544mm"
+   height="5.2693582mm"
+   viewBox="0 0 5.2890544 5.2693582"
+   version="1.1"
+   id="svg6097"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="cross-icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6099"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="true"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="16.670419"
+     inkscape:cx="-2.6094125"
+     inkscape:cy="17.636029"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5152"
+     showborder="false"
+     borderlayer="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid22068"
+       snapvisiblegridlinesonly="true"
+       dotted="false"
+       enabled="true"
+       visible="true"
+       color="#000000"
+       opacity="0"
+       originx="-4.8796091"
+       originy="-0.94374847" />
+  </sodipodi:namedview>
+  <defs
+     id="defs6094">
+    <symbol
+       id="PetsOnLeash_Inv">
+      <title
+         id="title17277">Pets On Leash</title>
+      <rect
+         x="0.5"
+         y="0.5"
+         width="71"
+         height="71"
+         ry="6"
+         style="stroke:none"
+         id="rect17279" />
+      <g
+         style="fill:#ffffff;stroke:none"
+         id="g17287">
+        <path
+           d="M 36.5,56.5 C 39,60.625 32.75,64 30.5,60 L 24.25,49.5 v 8.75 a 3.5,3.5 0 0 1 -7,0 V 35.5 L 12.5,32.75 c -2,-1.5 0,-4.5 2,-3.5 l 3,1.75 H 41 l 11,5.25 V 45 c 0,0.5 0,1.5 -1.25,1.5 v 11.875 a 3.5,3.5 0 0 1 -7,0 V 46.5 H 30.5 Z"
+           id="path17281" />
+        <path
+           d="M 41,31 11,16.75 v -3 L 42,28.5 Z"
+           id="path17283" />
+        <path
+           d="m 42,28.5 10,4.75 V 31.5 h 8 L 63,25 42,15 Z"
+           id="path17285" />
+      </g>
+    </symbol>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-6.4859078,-2.5733032)">
+    <g
+       id="g5152"
+       transform="matrix(0.94651345,0,0,0.93692542,0.08508557,0.68709396)">
+      <g
+         id="g326"
+         transform="matrix(0.8648568,0,0,0.87109978,0.91511383,0.25824116)"
+         style="stroke:#000000;stroke-opacity:1;fill:#2b2b2b;fill-opacity:1;opacity:0.5">
+        <path
+           style="fill:#2b2b2b;stroke:#000000;stroke-width:0.516099;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+           d="M 12.946232,2.1937616 11.391094,3.8064283"
+           id="path5911" />
+        <path
+           style="fill:#2b2b2b;stroke:#000000;stroke-width:0.522272;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+           d="M 8.5915101,6.6609926 7.0142091,8.2892602"
+           id="path5911-6" />
+        <path
+           style="fill:#2b2b2b;stroke:#000000;stroke-width:0.508175;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+           d="M 13.044558,8.2585411 11.468023,6.7162376"
+           id="path5911-7" />
+        <path
+           style="fill:#2b2b2b;stroke:#000000;stroke-width:0.532491;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+           d="M 8.639744,3.7983268 6.9420645,2.2257355"
+           id="path5911-7-5" />
+      </g>
+    </g>
+  </g>
+</svg>
