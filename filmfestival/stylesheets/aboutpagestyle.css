@@ -48,7 +48,6 @@ body {
 .header-welcome,
 .header-title {
   color: #ec5242;
-  background-color: #f7f7f7;
 }
 
 .header-welcome {
@@ -64,10 +63,9 @@ body {
 .about-description,
 .about-contact-details,
 .section-past-events-description,
-.section-logo-description ,
+.section-logo-description,
 .about-description-para2,
-.section-logo-description-1
-{
+.section-logo-description-1 {
   font-size: 1.1em;
   line-height: 2em;
   font-weight: 500;
@@ -81,13 +79,15 @@ body {
   background: #fff;
 }
 
-.about-description-container>p{
+.about-description-container > p {
   padding: 0;
 }
 
-.about-description-para2,.section-logo-description-1{
+.about-description-para2,
+.section-logo-description-1 {
   display: none;
 }
+
 .section-logo-details {
   padding: 5%;
   margin-bottom: 10%;
@@ -221,9 +221,16 @@ body {
 }
 
 .popup-window {
-  height: 100vh;
-  width: 100vw;
   margin: 0 auto;
+  position: fixed;
+  z-index: 999;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  background: #fff;
 }
 
 .menu-close-button {
@@ -281,12 +288,11 @@ body {
   color: #ec5242;
 }
 
-.breadcrumb-nav{
+.breadcrumb-nav {
   display: none;
 }
 
 @media screen and (min-width: 769px) {
-
   .control-bar {
     display: block;
     background: #272a31;
@@ -362,9 +368,9 @@ body {
     padding: 5% 15%;
   }
 
-  .breadcrumb-nav{
+  .breadcrumb-nav {
     display: block;
-    margin: 0 ;
+    margin: 0;
     padding: 0;
     position: absolute;
     right: 10%;
@@ -378,11 +384,11 @@ body {
     color: #272a31;
   }
 
-  .breadcrumb-nav > li > a{
+  .breadcrumb-nav > li > a {
     color: #272a31;
   }
 
-  .breadcrumb-icon{
+  .breadcrumb-icon {
     object-fit: contain;
   }
 
@@ -392,9 +398,8 @@ body {
 
   .header-title {
     margin: 0;
-    font-size: 3em;
+    font-size: 3.7em;
     font-weight: 900;
-    
   }
 
   .section-about {
@@ -408,10 +413,9 @@ body {
   .about-description,
   .about-contact-details,
   .section-past-events-description,
-  .section-logo-description ,
+  .section-logo-description,
   .about-description-para2,
-  .section-logo-description-1
-  {
+  .section-logo-description-1 {
     padding: 5% 5%;
     font-size: 1.2em;
     line-height: 1.5em;
@@ -420,16 +424,17 @@ body {
     margin: 0;
   }
 
-  .about-description-para2,.section-logo-description-1{
+  .about-description-para2,
+  .section-logo-description-1 {
     display: block;
   }
 
-  .section-logo-description{
+  .section-logo-description {
     margin: 0;
     padding: 5% 0 0;
   }
 
-  .section-logo-description-1{
+  .section-logo-description-1 {
     padding: 0 0 5%;
     margin: 0 0 5%;
   }
